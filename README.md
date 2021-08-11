@@ -1,0 +1,1 @@
+Rock paper scissors game. Exactly five games are played between a player who inputs their move via a browser prompt, and the program itself which generates random numbers to determine its moves.
